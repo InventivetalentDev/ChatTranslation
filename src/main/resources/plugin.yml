@@ -1,0 +1,4 @@
+name: ChatTranslation
+main: org.inventivetalent.chattranslation.ChatTranslation
+author: inventivetalent
+version: ${project.version}
